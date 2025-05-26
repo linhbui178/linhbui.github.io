@@ -1,8 +1,17 @@
-# Linh Bui
-This is a Heading 1
-This is a paragraph describing the way I like to code. I code in the morning, I code in the afternoon, but I like to code more at night. The werewolves don't come at night when I code; my superpower grows, and as Naruto helps me, my code becomes powerful like a lightsaber. Gundam robots come out of my code as I solve the mysteries of algorithms, dungeons, and dragons.
+# Course schedule
 
-This is a table with the heading 2
-Course Number	Course Name
-CSC 2330	Data Structures and Programming
-MAT 1234	Calculus I
+## Spring 2025
+| Course Number |	Course Name                               |
+----------------|--------------------------------------------
+| CSC 2431	    | Data Structures and Programming           |
+| MAT 2200      | Engineering Probability and Statistics    |
+| MAT 1236	    | Calculus III                              |
+| WRI 1100      | Disciplinary Research and Writing Seminar |
+
+## Fall 2025
+| Course Number |	Course Name                                |
+----------------|---------------------------------------------
+| PHY 1121	    | Physics for Science and Engineering        |
+| UCOR 2000     | The Emergence of the Modern Global Systems |
+| MAT 2401	    | Linear Algebra                             |
+| UFDN 1000     | The Christian Faith                        |
